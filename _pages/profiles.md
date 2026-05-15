@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /research/
-title: Research
-description: My research history
+title: research history
+description: Cool projects I've worked on
 nav: true
 nav_order: 2
 
@@ -17,7 +17,6 @@ profiles:
       <p>August 2025</p>
       <p>Prof. Jennet Dickinson</p>
       <p>Cornell University, CLASSE</p>
-      
   - align: right
     image: singlet_triplet_inversion.png
     content: pire.md
