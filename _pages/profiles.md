@@ -9,6 +9,15 @@ nav_order: 2
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: left
+    image: eft.png
+    content: smeft.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>August 2025</p>
+      <p>Prof. Jennet Dickinson</p>
+      <p>Cornell University, CLASSE</p>
+      
   - align: right
     image: singlet_triplet_inversion.png
     content: pire.md
@@ -19,7 +28,7 @@ profiles:
       Osaka University
   - align: left
     image: pixel_detector.png
-    content: about_einstein.md
+    content: smart_pixels.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>August 2024</p>
