@@ -36,3 +36,42 @@ I'm currently a 1st year PhD student at the University of Pennsylvania studying 
 Among other things, I like fat cats, bicycles, motorcycle touring, Oasis, and Fall Out Boy.
 
 I'm using this website as a digital archive of cool things I've done, seen, and worked on.
+
+<style>
+  .home-collage {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 180px;
+    gap: 10px;
+    margin-top: 2rem;
+  }
+
+  .home-collage img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+
+  .home-collage .featured {
+    grid-column: span 2;
+    grid-row: span 2;
+  }
+
+  @media (max-width: 600px) {
+    .home-collage {
+      grid-template-columns: repeat(2, 1fr);
+      grid-auto-rows: 140px;
+    }
+  }
+</style>
+
+<div class="home-collage">
+  <img
+    class="featured"
+    src="/assets/img/collage/prof_pic.png"
+    alt="Description of the first photo"
+  >
+  <img src="/assets/img/collage/bike_background.JPG" alt="Description of the second photo">
+  <img src="/assets/img/collage/baozi.jpeg" alt="Description of the third photo">
+</div>
