@@ -9,4 +9,4 @@ In addition, I corresponded with Professor Leonardo Sousa of the Technical Unive
 I appreciate the NSF for funding this fellowship and amazing experience.
 
 **Presentations**  
-- Zhou, A. (2025). *Singlet Triplet Inversion*. PIRE Research Symposium, Yamagata University, July.
+- Zhou, A. (2025). _Singlet Triplet Inversion_. PIRE Research Symposium, Yamagata University, July.
