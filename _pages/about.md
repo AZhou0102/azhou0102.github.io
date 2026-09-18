@@ -28,6 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Albert. I'm currently a 1st year PhD student at the University of Pennsylvania studying experimental particle physics. I did my undergrad at Cornell University in physics and philosophy. Among other things, I like fat cats, bicycles, motorcycle touring, Oasis, and Fall Out Boy.
+Hi! My name is Albert. 
+
+I'm currently a 1st year PhD student at the University of Pennsylvania studying experimental particle physics. I did my undergrad at Cornell University in physics and philosophy. 
+
+Among other things, I like fat cats, bicycles, motorcycle touring, Oasis, and Fall Out Boy.
 
 I'm using this website as a digital archive of cool things I've done, seen, and worked on.
