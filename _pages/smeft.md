@@ -4,3 +4,7 @@ It doesn't include an explanation for gravity (hard to believe), or dark matter 
 The Higgs boson, only discovered in 2012, still remains poorly constrained.
 To accomodate all of the physics that we haven't yet been able to explain, theorists have developed Effective Field Theory (EFT): a systematic framework through which we encode unknown high-energy physics into higher dimensional terms in our Lagrangian.
 By measuring deviations in processes that we can study, like Higgs production, physicists are able to get a glimpse at what lies beyond our current experimental capabilities.
+
+I spent my final year at Cornell working under Professor Dickinson on such an Effective Field Theory Project. I started by simulating a specific Higgs boson production process, under various Effective Field Theory assumptions (operators). I then performed statistical fits comparing my simulations with CMS data to constrain these proposed EFT effects.
+
+https://indico.cern.ch/event/1659508/contributions/7119354/
