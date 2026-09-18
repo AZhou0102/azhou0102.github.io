@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Pennsylvania</a>. Philadelphia, PA.
+subtitle: <a href='#'>zhoual@sas.upenn.edu</a>. Philadelphia, PA.
 
 profile:
   align: right
