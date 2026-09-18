@@ -72,6 +72,6 @@ I'm using this website as a digital archive of cool things I've done, seen, and 
     src="/assets/img/collage/bike_background.JPG"
     alt="Description of the first photo"
   >
-  <img src="/assets/img/collage/hutong.jpeg" alt="Description of the second photo">
+  <img src="/assets/img/collage/hutong.png" alt="Description of the second photo">
   <img src="/assets/img/collage/baozi.jpeg" alt="Description of the third photo">
 </div>
