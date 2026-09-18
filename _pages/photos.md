@@ -2,13 +2,12 @@
 layout: page
 title: photos
 permalink: /photos/
-description: A collection of moments from life, travel, and everything in between.
+description: a visual journal of places I've been, people I've met, and other moments.
 nav: true
 nav_order: 5
 ---
 
 I have the memory of a goldfish; photos mean a lot to me.
-a visual journal of places I've been, people I've met, and other moments.
 
 <div class="text-center my-5">
   <a
