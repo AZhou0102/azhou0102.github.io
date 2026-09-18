@@ -12,6 +12,7 @@ collection: books
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
 ## Books that I am reading, have read, or will read
+
 The 158-Pound Marriage
 Before the coffee gets cold. Tales from the Cafe
 Girl, Woman, Other
