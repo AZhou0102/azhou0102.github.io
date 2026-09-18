@@ -7,6 +7,6 @@ By measuring deviations in processes that we can study, like Higgs production, p
 
 I spent my final year at Cornell working under Professor Dickinson on such an Effective Field Theory Project. I started by simulating a specific Higgs boson production process, under various Effective Field Theory assumptions (operators). I then performed statistical fits comparing my simulations with CMS data to constrain these proposed EFT effects.
 
-**Presentations**  
+**Presentations**
 - Zhou, A. (2026). _Effect of dimension-6 operators on Higgs VBF_, LPC EFT Workshop at JHU. Johns Hopkins University, June.
   [presentation link] (https://indico.cern.ch/event/1659508/contributions/7119354/)
