@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Albert
-middle_name: 
+middle_name:
 last_name: Zhou
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -150,7 +150,7 @@ collections:
       layout: post
     output: true
   #projects:
-    #output: true
+  #output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
