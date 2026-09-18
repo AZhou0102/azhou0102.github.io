@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
     "asdf"
     #>
     #<p>Philadelphia, PA</p>
@@ -29,9 +29,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Albert. 
+Hi! My name is Albert.
 
-I'm currently a 1st year PhD student at the University of Pennsylvania studying experimental particle physics. I did my undergrad at Cornell University in physics and philosophy. 
+I'm currently a 1st year PhD student at the University of Pennsylvania studying experimental particle physics. I did my undergrad at Cornell University in physics and philosophy.
 
 Among other things, I like fat cats, bicycles, motorcycle touring, Oasis, and Fall Out Boy.
 
