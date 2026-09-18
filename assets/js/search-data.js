@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-photos",
           title: "photos",
-          description: "A collection of moments from life, travel, and everything in between.",
+          description: "a visual journal of places I&#39;ve been, people I&#39;ve met, and other moments.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/photos/";
