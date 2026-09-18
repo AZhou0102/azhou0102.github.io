@@ -10,4 +10,4 @@ I spent my final year at Cornell working under Professor Dickinson on such an Ef
 **Presentations**
 
 - Zhou, A. (2026). _Effect of dimension-6 operators on Higgs VBF_, LPC EFT Workshop at JHU. Johns Hopkins University, June.
-  [presentation link] (https://indico.cern.ch/event/1659508/contributions/7119354/)
+  [presentation link](https://indico.cern.ch/event/1659508/contributions/7119354/)
