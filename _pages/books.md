@@ -2,7 +2,8 @@
 layout: book-shelf
 title: bookshelf
 permalink: /books/
-nav: false
+nav: true
+nav_order: 3
 collection: books
 ---
 
@@ -11,3 +12,14 @@ collection: books
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
 ## Books that I am reading, have read, or will read
+The 158-Pound Marriage
+Before the coffee gets cold. Tales from the Cafe
+Girl, Woman, Other
+The Problem of Punishment; Boonin
+If All the Cats Disappeared from the World
+You're an Animal; Viskovitz
+All Men are Mortal; Beauvoir
+Philosophical Writings; Beauvoir
+None of This Matters; Joe Trohman
+DIRTBAG, MASSACHUSETTS
+Just Kids; Patti Smith
